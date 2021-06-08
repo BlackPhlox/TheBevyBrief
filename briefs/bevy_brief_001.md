@@ -10,11 +10,19 @@
 ### Compute Shader	
 ### SSAO
 
+https://user-images.githubusercontent.com/25123512/121217033-bd779800-c881-11eb-93f4-fcdc1504bc8e.mp4
+
 ## Animation
+
+https://github.com/lassade/bevy/tree/animations
+
+https://user-images.githubusercontent.com/25123512/121216747-7be6ed00-c881-11eb-9b5c-7cde83b5c2c0.mp4
 
 ## XR
 
 https://github.com/blaind/xrbevy
+
+https://user-images.githubusercontent.com/25123512/121211801-11cc4900-c87d-11eb-9635-7d7402dd8ddf.mp4
 
 # Asset Highlight
 
